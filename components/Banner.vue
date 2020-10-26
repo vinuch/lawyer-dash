@@ -36,7 +36,7 @@
     <!-- <highcharts class="chart" :options="chartOptions"></highcharts> -->
     <!-- <highcharts v-if="chartVisibility" class="chart" :options="chartOptions" ref="chart"></highcharts> -->
     <div class="sm:mx-24 mt-12 overflow-x-scroll">
-      <highcharts :options="chartOptions"></highcharts>
+      <highcharts  :options="chartOptions"></highcharts>
     </div>
   </div>
 </template>
@@ -45,12 +45,7 @@
 
 import moment from 'moment'
 import {Chart} from 'highcharts-vue'
-
-// var Highcharts = require("highcharts/highstock");
-// Load Highcharts Maps as a module
-// require("highcharts/modules/map")(Highcharts);
-// import Highcharts from 'highcharts';
-// var Highcharts = require('highcharts');
+import { mapActions, mapGetters } from 'vuex'
 
   export default {
     data() {
@@ -79,7 +74,7 @@ import {Chart} from 'highcharts-vue'
         text: 'Days of The month'
       },
         // tickInterval: 2,
-        tickInterval: 2 ,
+        tickInterval: 1 ,
          labels: {
            format: '{value:0f}' + ' oct'
             // formatter: function() {
@@ -108,20 +103,25 @@ import {Chart} from 'highcharts-vue'
             pointStart: 1
         }
     },
+//  {
+//         color: '#4299e1',
+//         name: 'New Cases',
+//         data: [11744, 17722, 16005, 19771, 20185, 24377, 32147, 39387,11744, 17722, 16005, 19771, 20185, 24377, 32147, 39387,11744, 17722, 16005, 19771, 20185, 24377, 32147, 39387,11744, 17722, 16005, 19771, 20185, 24377]
+//     }
+        // data: [23934, 22503, 27177, 29658, 37031, 19931, 37133, 54175,33934, 22503, 27177, 39658, 37031, 19931, 37133, 44175,43934, 52503, 37177, 29658, 37031, 19931, 37133, 24175,43934, 52503, 57177, 69658]
+        // data: [24916, 24064, 29742, 29851, 32490, 30282, 38121, 40434,24916, 24064, 29742, 29851, 32490, 30282, 38121, 40434,24916, 24064, 29742, 29851, 32490, 30282, 38121, 40434,24916, 24064, 29742, 29851, 32490, 30282]
 
     series: [{
         color: '#48bb78',
         name: 'Active Cases',
-        data: [23934, 22503, 27177, 29658, 37031, 19931, 37133, 54175,33934, 22503, 27177, 39658, 37031, 19931, 37133, 44175,43934, 52503, 37177, 29658, 37031, 19931, 37133, 24175,43934, 52503, 57177, 69658]
-    }, {
+        // data: [23934, 22503, 27177, 29658, 37031, 19931, 37133, 54175,33934, 22503, 27177, 39658, 37031, 19931, 37133, 44175,43934, 52503, 37177, 29658, 37031, 19931, 37133, 24175,43934, 52503, 57177, 69658]
+        data: this.activeCases
+}, {
         color: '#e53e3e',
         name: 'Closed Cases',
-        data: [24916, 24064, 29742, 29851, 32490, 30282, 38121, 40434,24916, 24064, 29742, 29851, 32490, 30282, 38121, 40434,24916, 24064, 29742, 29851, 32490, 30282, 38121, 40434,24916, 24064, 29742, 29851, 32490, 30282]
-    }, {
-        color: '#4299e1',
-        name: 'New Cases',
-        data: [11744, 17722, 16005, 19771, 20185, 24377, 32147, 39387,11744, 17722, 16005, 19771, 20185, 24377, 32147, 39387,11744, 17722, 16005, 19771, 20185, 24377, 32147, 39387,11744, 17722, 16005, 19771, 20185, 24377]
-    },],
+        data: this.closedCases
+        // data: [24916, 24064, 29742, 29851, 32490, 30282, 38121, 40434,24916, 24064, 29742, 29851, 32490, 30282, 38121, 40434,24916, 24064, 29742, 29851, 32490, 30282, 38121, 40434,24916, 24064, 29742, 29851, 32490, 30282]
+}],
 
     responsive: {
         rules: [{
@@ -144,13 +144,20 @@ import {Chart} from 'highcharts-vue'
     },
     methods: {
       getDays() {
-        for (let i = 1; i < moment().daysInMonth(); i++) {
+        for (let i = 1; i <= moment().daysInMonth(); i++) {
         this.monthDays.push(i)          
         }
       },
+      setData() {
+        this.chartOptions.series[0].data = this.activeCases
+      },
+      ...mapActions([
+        'getCases'
+      ])
     },
     mounted() {
       this.getDays()
+      this.getCases('april')
       const MONTHS = () => {
           const months = ['This Month']
           const dateStart = moment().add(-1, 'month')
@@ -167,7 +174,22 @@ import {Chart} from 'highcharts-vue'
 
     },
     computed: {
-      
+      ...mapGetters([
+        'currentCases',
+        'closedCases',
+        'activeCases',
+        'isLoading'
+      ])
+    },
+    watch: {
+      activeCases: function (val) {
+        this.chartOptions.series[0].data = this.activeCases
+        // this.fullName = val + ' ' + this.lastName
+      },
+      closedCases: function (val) {
+        this.chartOptions.series[1].data = this.closedCases
+        // this.fullName = val + ' ' + this.lastName
+      },
     }
 
   }
