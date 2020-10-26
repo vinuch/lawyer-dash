@@ -1,0 +1,404 @@
+{
+  "cases": [
+    {
+      "createdDate": "2020-10-12T10:36:35.360Z",
+      "closedDate": null,
+      "caseName": "Torphy, Koepp and Harber vs Strosin Inc",
+      "assigned Lawyer": "Antonia O'Hara",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-10-14T06:33:15.365Z",
+      "closedDate": null,
+      "caseName": "Harvey LLC vs Keebler - Dach",
+      "assigned Lawyer": "Vivian Wilderman",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-08-31T05:07:16.976Z",
+      "closedDate": null,
+      "caseName": "Davis, Leffler and Jerde vs Dietrich Group",
+      "assigned Lawyer": "Aubrey Howe",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-08-04T03:10:49.458Z",
+      "closedDate": null,
+      "caseName": "Emard Group vs Hintz Group",
+      "assigned Lawyer": "Colby Veum",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-09-21T17:43:06.840Z",
+      "closedDate": null,
+      "caseName": "Feeney - Cole vs Schuppe Inc",
+      "assigned Lawyer": "Humberto Stehr",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-09-08T13:53:36.085Z",
+      "closedDate": null,
+      "caseName": "Jacobs, Auer and King vs Raynor - Hammes",
+      "assigned Lawyer": "Nikita Waelchi",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-08-13T12:51:18.113Z",
+      "closedDate": null,
+      "caseName": "Bauch Group vs Haley, Kreiger and Blanda",
+      "assigned Lawyer": "D'angelo Metz",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-07-16T21:23:50.261Z",
+      "closedDate": null,
+      "caseName": "Ernser - Farrell vs Stracke, Glover and Beier",
+      "assigned Lawyer": "Emanuel Miller",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-10-07T04:03:01.899Z",
+      "closedDate": null,
+      "caseName": "Anderson Inc vs Tillman - Carroll",
+      "assigned Lawyer": "Kraig McLaughlin",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-05-20T06:14:53.417Z",
+      "closedDate": null,
+      "caseName": "Homenick - Aufderhar vs McClure - Windler",
+      "assigned Lawyer": "Kiarra Price",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-06-19T06:00:00.274Z",
+      "closedDate": null,
+      "caseName": "MacGyver - Lang vs Hegmann - McKenzie",
+      "assigned Lawyer": "Princess Collins",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-06-19T00:44:45.251Z",
+      "closedDate": null,
+      "caseName": "Herman - Spinka vs Gleichner LLC",
+      "assigned Lawyer": "Luella Cummerata",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-06-17T16:49:33.729Z",
+      "closedDate": null,
+      "caseName": "Powlowski - Effertz vs Rogahn - Steuber",
+      "assigned Lawyer": "Benedict Runolfsdottir",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-05-31T08:18:08.271Z",
+      "closedDate": null,
+      "caseName": "Kozey and Sons vs Bernier Inc",
+      "assigned Lawyer": "Lazaro Romaguera",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-10-01T23:35:17.290Z",
+      "closedDate": null,
+      "caseName": "Hand, Schaden and Hane vs Heidenreich, Becker and Gaylord",
+      "assigned Lawyer": "Giovanna Ebert",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-06-23T03:49:31.433Z",
+      "closedDate": null,
+      "caseName": "Lowe, Will and Gerlach vs Vandervort, McKenzie and Parker",
+      "assigned Lawyer": "Zetta Brakus",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-10-19T23:44:43.928Z",
+      "closedDate": null,
+      "caseName": "Haley - Kovacek vs Fritsch - Ebert",
+      "assigned Lawyer": "Monique Botsford",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-04-13T22:33:30.752Z",
+      "closedDate": null,
+      "caseName": "Senger, Bahringer and Block vs Lakin Inc",
+      "assigned Lawyer": "Larissa Rutherford",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-09-11T22:03:08.318Z",
+      "closedDate": null,
+      "caseName": "Koelpin, Wisozk and Carroll vs Mayert and Sons",
+      "assigned Lawyer": "Katrina Cassin",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-08-29T10:35:00.441Z",
+      "closedDate": null,
+      "caseName": "Heaney - Franecki vs Hansen - Walsh",
+      "assigned Lawyer": "Misael Feest",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-07-15T10:32:29.370Z",
+      "closedDate": null,
+      "caseName": "Jaskolski Inc vs Sporer and Sons",
+      "assigned Lawyer": "Rodrigo Pfannerstill",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-08-26T11:27:02.632Z",
+      "closedDate": null,
+      "caseName": "Shanahan, Gerlach and Herzog vs Hahn, Mitchell and Hamill",
+      "assigned Lawyer": "Maybelle Parisian",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-06-15T20:00:38.201Z",
+      "closedDate": null,
+      "caseName": "O'Hara LLC vs Brekke, Weissnat and Shields",
+      "assigned Lawyer": "Jan Langosh",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-04-17T07:14:40.197Z",
+      "closedDate": null,
+      "caseName": "Rutherford - Baumbach vs Bartell - Rogahn",
+      "assigned Lawyer": "Josefa Erdman",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-10-14T19:12:44.917Z",
+      "closedDate": null,
+      "caseName": "VonRueden and Sons vs Beahan, Prohaska and Langosh",
+      "assigned Lawyer": "Jordon Moen",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-08-01T09:27:20.628Z",
+      "closedDate": null,
+      "caseName": "Pfeffer LLC vs Schumm - Grimes",
+      "assigned Lawyer": "Coby Homenick",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-08-24T02:44:28.844Z",
+      "closedDate": null,
+      "caseName": "Shanahan Inc vs Vandervort Inc",
+      "assigned Lawyer": "Gaylord Stark",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-10-04T08:30:13.313Z",
+      "closedDate": null,
+      "caseName": "Bogan and Sons vs Ullrich, Lehner and Bergstrom",
+      "assigned Lawyer": "Baby Frami",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-09-14T17:45:28.069Z",
+      "closedDate": null,
+      "caseName": "Borer, Oberbrunner and Nikolaus vs Beier - Hettinger",
+      "assigned Lawyer": "Fiona Streich",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-09-07T04:43:17.166Z",
+      "closedDate": null,
+      "caseName": "Gerlach - Emard vs Hodkiewicz, Reichel and Tillman",
+      "assigned Lawyer": "Mateo Bins",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-07-25T11:14:42.047Z",
+      "closedDate": null,
+      "caseName": "Borer - Wintheiser vs Stark - Altenwerth",
+      "assigned Lawyer": "Jackie Lehner",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-06-12T19:24:04.098Z",
+      "closedDate": null,
+      "caseName": "D'Amore, Walter and Adams vs Metz - Fadel",
+      "assigned Lawyer": "Aniyah Weimann",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-05-22T23:41:38.543Z",
+      "closedDate": null,
+      "caseName": "Fay - Blanda vs Wunsch Group",
+      "assigned Lawyer": "Serenity Mayert",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-05-19T15:30:49.902Z",
+      "closedDate": null,
+      "caseName": "Littel - Klein vs Crooks, Flatley and Koch",
+      "assigned Lawyer": "Betty Shanahan",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-10-12T01:13:37.092Z",
+      "closedDate": null,
+      "caseName": "Quitzon, Wiza and Leannon vs Kling Group",
+      "assigned Lawyer": "Sandy Green",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-08-06T08:40:52.693Z",
+      "closedDate": null,
+      "caseName": "Gleichner Group vs Schneider - Bins",
+      "assigned Lawyer": "Patience Russel",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-04-08T14:39:50.550Z",
+      "closedDate": null,
+      "caseName": "Predovic Group vs Bednar Group",
+      "assigned Lawyer": "Immanuel Labadie",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-06-20T19:14:42.782Z",
+      "closedDate": null,
+      "caseName": "Halvorson - Gerhold vs Osinski LLC",
+      "assigned Lawyer": "Aaron Waelchi",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-09-30T05:12:30.172Z",
+      "closedDate": null,
+      "caseName": "Harvey - Schultz vs Morissette, Moore and Effertz",
+      "assigned Lawyer": "Taylor Jenkins",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-05-05T14:39:09.096Z",
+      "closedDate": null,
+      "caseName": "Bradtke Group vs Cartwright - Stehr",
+      "assigned Lawyer": "Christopher Haag",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-05-30T20:11:52.470Z",
+      "closedDate": null,
+      "caseName": "Daugherty Inc vs Wyman and Sons",
+      "assigned Lawyer": "Bradly White",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-04-11T20:32:50.443Z",
+      "closedDate": null,
+      "caseName": "Kub Inc vs Ernser - Jacobs",
+      "assigned Lawyer": "Jameson Shields",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-08-23T19:52:43.884Z",
+      "closedDate": null,
+      "caseName": "Rau, Heller and Walter vs Collins - Osinski",
+      "assigned Lawyer": "Ana Rowe",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-06-18T21:16:37.704Z",
+      "closedDate": null,
+      "caseName": "Kovacek, Little and Bernhard vs Senger LLC",
+      "assigned Lawyer": "Kayden Schinner",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-04-10T19:10:02.171Z",
+      "closedDate": null,
+      "caseName": "Smitham - Torphy vs Kuhlman, Cummerata and Rolfson",
+      "assigned Lawyer": "Maida Pagac",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-08-06T07:13:10.606Z",
+      "closedDate": null,
+      "caseName": "Hamill - Nader vs Ryan Inc",
+      "assigned Lawyer": "Nicola Macejkovic",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-08-03T10:25:11.730Z",
+      "closedDate": null,
+      "caseName": "Satterfield - Russel vs Johns, Runolfsdottir and Reilly",
+      "assigned Lawyer": "Colt Gerhold",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-08-02T10:10:47.885Z",
+      "closedDate": null,
+      "caseName": "Lockman, Bruen and Donnelly vs Kiehn, Langworth and Klein",
+      "assigned Lawyer": "Camron Skiles",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-10-08T01:13:40.975Z",
+      "closedDate": null,
+      "caseName": "Pacocha - Witting vs Lubowitz - Runolfsdottir",
+      "assigned Lawyer": "Manley Kris",
+      "isActive": "true",
+      "isClosed": "false"
+    },
+    {
+      "createdDate": "2020-07-01T14:25:52.168Z",
+      "closedDate": null,
+      "caseName": "Gottlieb - Johnson vs Gaylord - Morar",
+      "assigned Lawyer": "Jodie Gaylord",
+      "isActive": "true",
+      "isClosed": "false"
+    }
+  ]
+}
