@@ -10,7 +10,12 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "nuxt": "^2.14.6"
+    "highcharts": "6.1.0",
+    "highcharts-vue": "1.0.4",
+    "json-server": "^0.16.2",
+    "moment": "^2.29.1",
+    "nuxt": "^2.14.6",
+    "vue-select": "^3.10.8"
   },
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^3.1.0",

@@ -1,6 +1,6 @@
 <template>
-  <div class="text-sm text-red-500">
-    
+  <div class="">
+    <Banner />
   </div>
 </template>
 
