@@ -4,7 +4,7 @@ import moment from 'moment'
 export const state = () => ({
   currentCases: [],
   activeCases: [],
-  // newCases: [],
+  newCases: [],
   closedCases: [],
   isLoading: true
 })
@@ -16,56 +16,83 @@ export const mutations = {
   SET_ACTIVE_CASES(state, payload){
     state.activeCases = payload
   },
-  // SET_NEW_CASES(state, payload){
-  //   state.newCases.push(payload)
-  // },
+  SET_NEW_CASES(state, payload){
+    state.newCases = payload
+  },
   SET_CLOSED_CASES(state, payload){
     state.closedCases = payload
   },
-  SET_ISLOADING(state, payload){
-    state.isLoading = !state.isLoading
-  },
+
 }
 
 export const actions = {
   async getCases({ commit }, month){
-     await axios.get(`http://localhost:3000/${month}`)
+    if(month){
+      
+    }
+    let activeCase = new Array(moment(`${moment().year()} ${month}`).daysInMonth()).fill(0)
+    let closedCase = new Array(moment(`${moment().year()} ${month}`).daysInMonth()).fill(0)
+    let newCase = new Array(moment(`${moment().year()} ${month}`).daysInMonth()).fill(0)
+
+     let request = await axios.get(`http://localhost:5000/${month}`)
       .then((res) => {
         commit('SET_CURRENT_CASES', res.data)
 
-        let activeCase = new Array(moment(`${moment().year()} ${month}`).daysInMonth()).fill(0)
-        let closedCase = new Array(moment(`${moment().year()} ${month}`).daysInMonth()).fill(0)
-        // let newCase = new Array(moment(`${moment().year()} ${month}`).daysInMonth()).fill(0)
-        console.log(activeCase, closedCase,'jkhkajldhfa')
+        
 
-        res.data.map((item) =>{
+        res.data.forEach((item) =>{
           let day = moment(item.createdDate).date()
-          if(moment().diff(moment(item.closedDate)) < 0){
-            // console.log(moment().diff(moment(item.closedDate)))
-            activeCase[day]++
+          if(item.closedDate == null){
+            activeCase[day-1]++
           }
-          if(moment().diff(moment(item.closedDate)) > 0){
+          if(item.closedDate){
             console.log()
-
-            console.log('closed')
-            closedCase[day]++
+            closedCase[day-1]++
           }
-          // console.log(item.createdDate)
-          // console.log(moment(`2020-${month}-${day}`).format("MM-DD-YYYY"), moment(item.createdDate).format("MM-DD-YYYY"))
-          // if(moment(`2020-${month}-${day}`).format("MM-DD-YYYY") === moment(item.createdDate).format("MM-DD-YYYY")){
-          //   // console.log('new')
-          //   newCase[day]++
-          // }
-
-         
+          if(moment(`2020-${month}-${day}`).format("MM-DD-YYYY") === moment(item.createdDate).format("MM-DD-YYYY")){
+            newCase[day]++
+          }
         })
-        console.log(activeCase, closedCase)
+        console.log(activeCase, closedCase, newCase)
         commit('SET_ACTIVE_CASES', activeCase)
         commit('SET_CLOSED_CASES', closedCase)
-        commit('SET_ISLOADING')
+        commit('SET_NEW_CASES', newCase)
+        return true
 
-        
       })
+      .catch(err => {
+        console.error(err)
+        return false
+      })
+      
+      if(!request && month) {
+        let data = require('../db.json')
+        let response = data[month.toLowerCase()]
+
+
+        response.forEach((item) =>{
+
+          let day = moment(item.createdDate).date()
+          if(item.closedDate == null){
+            activeCase[day-1]++
+          }
+          if(item.closedDate){
+            console.log()
+            closedCase[day-1]++
+          }
+          if(moment(`2020-${month}-${day}`).format("MM-DD-YYYY") === moment(item.createdDate).format("MM-DD-YYYY")){
+            newCase[day]++
+          }
+
+
+        })
+        commit('SET_ACTIVE_CASES', activeCase)
+        commit('SET_CLOSED_CASES', closedCase)
+        commit('SET_NEW_CASES', newCase)
+        console.log(activeCase, closedCase, newCase)
+      }
+      
+
   }
 }
 
@@ -79,8 +106,9 @@ export const getters = {
   closedCases(state) {
     return state.closedCases
   },
-  isLoading(state) {
-    return state.isLoading
-  }
+  newCases(state) {
+    return state.newCases
+  },
+
 }
 

@@ -2,21 +2,15 @@
   "october": [
     {
       "createdDate": "2020-10-06T11:34:39.135Z",
-      "closedDate": "2020-11-01T08:20:13.716Z",
+      "closedDate": null,
       "caseName": "McDermott and Sons vs Carter, Schinner and Greenfelder",
       "assigned Lawyer": "Jacquelyn Price"
     },
     {
       "createdDate": "2020-10-08T06:11:09.179Z",
-      "closedDate": "2020-11-03T05:11:33.830Z",
+      "closedDate": null,
       "caseName": "Heidenreich and Sons vs Klocko, Harber and Kuhic",
       "assigned Lawyer": "Zoey Gerhold"
-    },
-    {
-      "createdDate": "2020-10-29T10:43:16.674Z",
-      "closedDate": "2020-11-23T17:34:11.205Z",
-      "caseName": "Bins - Rice vs Boyer - Ledner",
-      "assigned Lawyer": "Monserrate Beahan"
     },
     {
       "createdDate": "2020-10-11T19:43:50.933Z",
@@ -26,13 +20,13 @@
     },
     {
       "createdDate": "2020-10-21T04:42:43.825Z",
-      "closedDate": "2020-11-09T19:50:32.934Z",
+      "closedDate": null,
       "caseName": "Durgan, Brekke and Purdy vs Homenick LLC",
       "assigned Lawyer": "Napoleon Stokes"
     },
     {
       "createdDate": "2020-10-17T17:05:45.543Z",
-      "closedDate": "2020-11-19T15:53:24.758Z",
+      "closedDate": null,
       "caseName": "Howell, Conn and Gerhold vs Champlin - Towne",
       "assigned Lawyer": "Kiana Welch"
     },
@@ -49,23 +43,12 @@
       "assigned Lawyer": "Dominic Maggio"
     },
     {
-      "createdDate": "2020-10-29T04:20:46.353Z",
-      "closedDate": "2020-11-18T01:12:26.856Z",
-      "caseName": "Schmitt, Schuppe and McCullough vs Bernhard Inc",
-      "assigned Lawyer": "Frederique Leuschke"
-    },
-    {
       "createdDate": "2020-10-19T15:48:53.061Z",
-      "closedDate": "2020-11-26T05:48:04.023Z",
+      "closedDate": null,
       "caseName": "Hirthe, Daugherty and Conroy vs Gutmann Group",
       "assigned Lawyer": "Skye Hackett"
     },
-    {
-      "createdDate": "2020-10-12T13:27:18.911Z",
-      "closedDate": "2020-10-30T02:17:47.980Z",
-      "caseName": "Pfeffer - Schaefer vs Hilpert, Ankunding and Rosenbaum",
-      "assigned Lawyer": "Jerrold Greenholt"
-    },
+
     {
       "createdDate": "2020-10-11T15:08:15.305Z",
       "closedDate": "2020-11-29T08:43:00.494Z",
@@ -73,20 +56,14 @@
       "assigned Lawyer": "Georgette Krajcik"
     },
     {
-      "createdDate": "2020-10-26T23:43:47.093Z",
-      "closedDate": "2020-10-31T02:08:53.941Z",
-      "caseName": "Sawayn - Botsford vs Beer Group",
-      "assigned Lawyer": "Annabell Yundt"
-    },
-    {
       "createdDate": "2020-10-09T12:20:53.267Z",
-      "closedDate": "2020-11-09T08:49:38.247Z",
+      "closedDate": null,
       "caseName": "Bartell Group vs Jaskolski and Sons",
       "assigned Lawyer": "Ceasar Pagac"
     },
     {
       "createdDate": "2020-10-03T10:40:54.233Z",
-      "closedDate": "2020-11-03T00:42:07.281Z",
+      "closedDate": null,
       "caseName": "Christiansen - Marquardt vs DuBuque LLC",
       "assigned Lawyer": "Celestino Gorczany"
     },
@@ -104,13 +81,13 @@
     },
     {
       "createdDate": "2020-10-06T04:41:00.119Z",
-      "closedDate": "2020-11-10T05:47:41.581Z",
+      "closedDate": null,
       "caseName": "Schimmel LLC vs Hilpert, Haag and Greenfelder",
       "assigned Lawyer": "Pablo Heathcote"
     },
     {
       "createdDate": "2020-10-22T06:58:48.421Z",
-      "closedDate": "2020-11-04T07:17:05.149Z",
+      "closedDate": null,
       "caseName": "Langworth, Zboncak and Fay vs Kutch Inc",
       "assigned Lawyer": "Maida Franecki"
     },
@@ -128,13 +105,13 @@
     },
     {
       "createdDate": "2020-10-14T13:03:38.821Z",
-      "closedDate": "2020-11-07T15:44:58.578Z",
+      "closedDate": null,
       "caseName": "Rosenbaum - Adams vs Blick, Sanford and Hahn",
       "assigned Lawyer": "Tess Ullrich"
     },
     {
       "createdDate": "2020-10-21T11:25:26.321Z",
-      "closedDate": "2020-11-22T14:24:16.815Z",
+      "closedDate": null,
       "caseName": "Walker Group vs Johns - Mann",
       "assigned Lawyer": "Moshe Leuschke"
     },
@@ -152,13 +129,13 @@
     },
     {
       "createdDate": "2020-10-19T05:50:30.036Z",
-      "closedDate": "2020-11-19T16:55:23.764Z",
+      "closedDate": null,
       "caseName": "Russel, Prosacco and Purdy vs Bernier - Roob",
       "assigned Lawyer": "Johnnie Macejkovic"
     },
     {
       "createdDate": "2020-10-15T15:42:05.282Z",
-      "closedDate": "2020-11-29T08:46:53.199Z",
+      "closedDate": null,
       "caseName": "Collier - Emmerich vs Streich, Okuneva and Ortiz",
       "assigned Lawyer": "Hannah Powlowski"
     },
@@ -176,13 +153,13 @@
     },
     {
       "createdDate": "2020-10-18T10:32:35.296Z",
-      "closedDate": "2020-11-08T06:27:59.535Z",
+      "closedDate": null,
       "caseName": "Mraz, Tremblay and Hansen vs Kiehn - Marquardt",
       "assigned Lawyer": "Lisette Pfeffer"
     },
     {
       "createdDate": "2020-10-09T07:09:02.116Z",
-      "closedDate": "2020-11-29T06:06:45.067Z",
+      "closedDate": null,
       "caseName": "Huel and Sons vs Wilkinson - Hirthe",
       "assigned Lawyer": "Hobart Wilderman"
     },
@@ -200,13 +177,13 @@
     },
     {
       "createdDate": "2020-10-12T19:56:46.187Z",
-      "closedDate": "2020-11-04T02:49:20.438Z",
+      "closedDate": null,
       "caseName": "Littel, Koch and Greenholt vs Schulist - Abbott",
       "assigned Lawyer": "Sammy Wisozk"
     },
     {
       "createdDate": "2020-10-06T21:37:17.898Z",
-      "closedDate": "2020-10-31T18:37:12.555Z",
+      "closedDate": null,
       "caseName": "Langworth, Hahn and Hilll vs Parisian Inc",
       "assigned Lawyer": "Christine Gulgowski"
     },
@@ -224,13 +201,13 @@
     },
     {
       "createdDate": "2020-10-17T00:44:26.871Z",
-      "closedDate": "2020-11-17T17:42:14.176Z",
+      "closedDate": null,
       "caseName": "Thompson and Sons vs Ziemann - Ullrich",
       "assigned Lawyer": "Rick Altenwerth"
     },
     {
       "createdDate": "2020-10-13T21:14:45.870Z",
-      "closedDate": "2020-11-02T05:20:47.562Z",
+      "closedDate": null,
       "caseName": "Prohaska LLC vs Leffler - Dach",
       "assigned Lawyer": "Meagan Bernhard"
     },
@@ -248,13 +225,13 @@
     },
     {
       "createdDate": "2020-10-03T03:07:11.137Z",
-      "closedDate": "2020-11-16T04:39:05.552Z",
+      "closedDate": null,
       "caseName": "D'Amore - Pagac vs Rolfson LLC",
       "assigned Lawyer": "Audrey Schoen"
     },
     {
       "createdDate": "2020-10-08T05:53:40.951Z",
-      "closedDate": "2020-11-11T22:22:01.404Z",
+      "closedDate": null,
       "caseName": "Powlowski, Torphy and Marquardt vs Davis, Moore and Shields",
       "assigned Lawyer": "Omari Green"
     },
@@ -271,14 +248,8 @@
       "assigned Lawyer": "Ada Parisian"
     },
     {
-      "createdDate": "2020-10-29T18:42:18.064Z",
-      "closedDate": "2020-11-29T05:42:51.705Z",
-      "caseName": "Paucek, Tillman and Wiza vs Cole, Kuphal and Fay",
-      "assigned Lawyer": "Floy Feil"
-    },
-    {
       "createdDate": "2020-10-24T02:44:35.366Z",
-      "closedDate": "2020-11-07T20:38:01.735Z",
+      "closedDate": null,
       "caseName": "Schulist, Lockman and Daniel vs Wilderman Inc",
       "assigned Lawyer": "Monica Huel"
     },
@@ -304,13 +275,13 @@
   "september": [
     {
       "createdDate": "2020-09-01T06:22:24.791Z",
-      "closedDate": "2020-10-16T16:31:09.826Z",
+      "closedDate": null,
       "caseName": "Bayer Inc vs Strosin Inc",
       "assigned Lawyer": "Berenice Roberts"
     },
     {
       "createdDate": "2020-09-11T19:22:25.072Z",
-      "closedDate": "2020-10-21T06:18:33.919Z",
+      "closedDate": null,
       "caseName": "Luettgen Group vs Thiel and Sons",
       "assigned Lawyer": "Maida Lindgren"
     },
@@ -328,13 +299,13 @@
     },
     {
       "createdDate": "2020-09-24T10:48:29.942Z",
-      "closedDate": "2020-10-16T13:39:11.577Z",
+      "closedDate": null,
       "caseName": "Wilkinson - Koss vs Leuschke, Blick and Corwin",
       "assigned Lawyer": "Samanta Stehr"
     },
     {
       "createdDate": "2020-09-05T04:56:13.151Z",
-      "closedDate": "2020-10-11T04:45:12.208Z",
+      "closedDate": null,
       "caseName": "Kerluke - Quitzon vs Rohan Group",
       "assigned Lawyer": "Aniyah Ferry"
     },
@@ -352,13 +323,13 @@
     },
     {
       "createdDate": "2020-09-24T08:30:53.954Z",
-      "closedDate": "2020-10-07T01:15:29.014Z",
+      "closedDate": null,
       "caseName": "Hartmann, Boyer and Kreiger vs Lehner - Kihn",
       "assigned Lawyer": "Barbara Abbott"
     },
     {
       "createdDate": "2020-09-18T18:17:42.488Z",
-      "closedDate": "2020-10-24T13:22:27.497Z",
+      "closedDate": null,
       "caseName": "Hintz, Reichert and Grimes vs Willms - Stokes",
       "assigned Lawyer": "Prince Kemmer"
     },
@@ -376,13 +347,13 @@
     },
     {
       "createdDate": "2020-09-04T04:37:49.924Z",
-      "closedDate": "2020-10-04T05:31:45.961Z",
+      "closedDate": null,
       "caseName": "Kiehn - Schulist vs Hirthe, Murazik and Gusikowski",
       "assigned Lawyer": "Everardo Langosh"
     },
     {
       "createdDate": "2020-09-19T15:00:01.359Z",
-      "closedDate": "2020-10-13T17:08:56.551Z",
+      "closedDate": null,
       "caseName": "Rosenbaum Inc vs Bogan Group",
       "assigned Lawyer": "Gabriella Pfeffer"
     },
@@ -399,14 +370,14 @@
       "assigned Lawyer": "Pink Brakus"
     },
     {
-      "createdDate": "2020-09-13T15:51:01.801Z",
+      "closedDate": null,
       "closedDate": "2020-10-04T04:26:28.660Z",
       "caseName": "Yundt Inc vs Kerluke Inc",
       "assigned Lawyer": "Miller Thiel"
     },
     {
       "createdDate": "2020-09-08T11:11:07.174Z",
-      "closedDate": "2020-10-05T02:02:20.622Z",
+      "closedDate": null,
       "caseName": "Rodriguez Inc vs Barrows - Gorczany",
       "assigned Lawyer": "Milton Weber"
     },
@@ -424,13 +395,13 @@
     },
     {
       "createdDate": "2020-09-10T10:19:54.940Z",
-      "closedDate": "2020-10-03T01:46:22.513Z",
+      "closedDate": null,
       "caseName": "Maggio LLC vs Wisozk, Rogahn and Morar",
       "assigned Lawyer": "Katrine Leuschke"
     },
     {
       "createdDate": "2020-09-09T08:00:41.882Z",
-      "closedDate": "2020-10-22T23:11:57.610Z",
+      "closedDate": null,
       "caseName": "Marquardt - Spinka vs Heidenreich, Wilkinson and Moen",
       "assigned Lawyer": "Dessie Luettgen"
     },
@@ -454,13 +425,13 @@
     },
     {
       "createdDate": "2020-09-15T00:44:43.224Z",
-      "closedDate": "2020-10-07T13:53:57.805Z",
+      "closedDate": null,
       "caseName": "D'Amore, Sawayn and O'Connell vs Farrell - Doyle",
       "assigned Lawyer": "Darien Abbott"
     },
     {
       "createdDate": "2020-09-06T23:11:54.457Z",
-      "closedDate": "2020-10-24T21:46:48.394Z",
+      "closedDate": null,
       "caseName": "Krajcik, Cruickshank and Kling vs Konopelski, Doyle and D'Amore",
       "assigned Lawyer": "Tina Oberbrunner"
     },
@@ -478,13 +449,13 @@
     },
     {
       "createdDate": "2020-09-26T03:34:15.098Z",
-      "closedDate": "2020-10-05T13:28:55.761Z",
+      "closedDate": null,
       "caseName": "Kilback and Sons vs Stehr, Metz and Schmitt",
       "assigned Lawyer": "Cara Walsh"
     },
     {
       "createdDate": "2020-09-18T10:40:10.707Z",
-      "closedDate": "2020-10-28T00:48:57.904Z",
+      "closedDate": null,
       "caseName": "Konopelski, Harvey and Bogisich vs Wiza Inc",
       "assigned Lawyer": "Sigrid Bode"
     },
@@ -508,13 +479,13 @@
     },
     {
       "createdDate": "2020-09-18T04:47:22.784Z",
-      "closedDate": "2020-10-07T04:13:48.284Z",
+      "closedDate": null,
       "caseName": "Brakus, Gusikowski and Glover vs Glover, Rogahn and Daugherty",
       "assigned Lawyer": "Emelie Bernier"
     },
     {
       "createdDate": "2020-09-22T06:02:44.032Z",
-      "closedDate": "2020-10-17T15:10:31.891Z",
+      "closedDate": null,
       "caseName": "Botsford and Sons vs Hickle - Dickinson",
       "assigned Lawyer": "Jordane Schmitt"
     },
@@ -526,13 +497,13 @@
     },
     {
       "createdDate": "2020-09-20T15:46:10.018Z",
-      "closedDate": "2020-10-17T22:44:15.454Z",
+      "closedDate": null,
       "caseName": "Gibson, Corwin and Streich vs Parisian Inc",
       "assigned Lawyer": "Eryn Tromp"
     },
     {
       "createdDate": "2020-09-05T11:08:20.492Z",
-      "closedDate": "2020-10-20T18:54:07.566Z",
+      "closedDate": null,
       "caseName": "Stamm, Feil and Langosh vs Hartmann Inc",
       "assigned Lawyer": "Kim Schimmel"
     },
@@ -544,13 +515,13 @@
     },
     {
       "createdDate": "2020-09-10T07:07:31.595Z",
-      "closedDate": "2020-10-28T05:39:55.323Z",
+      "closedDate": null,
       "caseName": "Kuhlman Inc vs Bradtke - Stokes",
       "assigned Lawyer": "Katherine Sporer"
     },
     {
       "createdDate": "2020-09-01T18:49:56.595Z",
-      "closedDate": "2020-10-08T15:51:51.239Z",
+      "closedDate": null,
       "caseName": "Kiehn - Wolff vs Abshire - Renner",
       "assigned Lawyer": "Ariane Beahan"
     },
@@ -562,13 +533,13 @@
     },
     {
       "createdDate": "2020-09-17T00:41:57.037Z",
-      "closedDate": "2020-10-21T04:41:28.388Z",
+      "closedDate": null,
       "caseName": "Haag and Sons vs Wiza - Herzog",
       "assigned Lawyer": "Moshe Hilll"
     },
     {
       "createdDate": "2020-09-09T08:50:42.878Z",
-      "closedDate": "2020-10-11T02:09:24.773Z",
+      "closedDate": null,
       "caseName": "Weissnat, Bechtelar and Veum vs Heidenreich - Hand",
       "assigned Lawyer": "Riley Cronin"
     },
@@ -586,19 +557,19 @@
     },
     {
       "createdDate": "2020-09-29T10:32:33.971Z",
-      "closedDate": "2020-10-02T19:27:08.988Z",
+      "closedDate": null,
       "caseName": "Prosacco - Grady vs Grant, Mosciski and Satterfield",
       "assigned Lawyer": "Antonietta Fadel"
     },
     {
       "createdDate": "2020-09-15T23:08:14.778Z",
-      "closedDate": "2020-10-08T14:35:45.164Z",
+      "closedDate": null,
       "caseName": "Steuber and Sons vs Emard, Dach and Shields",
       "assigned Lawyer": "Keely Ullrich"
     },
     {
       "createdDate": "2020-09-06T13:45:10.358Z",
-      "closedDate": "2020-09-30T18:28:50.872Z",
+      "closedDate": null,
       "caseName": "Gusikowski Group vs Cole, Schuppe and Corkery",
       "assigned Lawyer": "Hermina Welch"
     }
@@ -606,127 +577,127 @@
   "august": [
     {
       "createdDate": "2020-08-16T02:43:54.027Z",
-      "closedDate": "2020-09-25T00:01:41.881Z",
+      "closedDate": null,
       "caseName": "Renner LLC vs Stark, Hane and Kunde",
       "assigned Lawyer": "Cordie Schuster"
     },
     {
       "createdDate": "2020-08-03T14:57:02.637Z",
-      "closedDate": "2020-09-01T14:01:51.493Z",
+      "closedDate": null,
       "caseName": "Hagenes LLC vs Wolf - Crona",
       "assigned Lawyer": "Juwan Block"
     },
     {
       "createdDate": "2020-08-05T14:03:05.569Z",
-      "closedDate": "2020-09-29T00:37:38.620Z",
+      "closedDate": null,
       "caseName": "Stanton - Reichert vs McGlynn and Sons",
       "assigned Lawyer": "Destin Armstrong"
     },
     {
       "createdDate": "2020-08-12T01:16:21.922Z",
-      "closedDate": "2020-09-26T06:21:56.349Z",
+      "closedDate": null,
       "caseName": "Hessel, Hoppe and Cummerata vs Collier Group",
       "assigned Lawyer": "Darlene Denesik"
     },
     {
       "createdDate": "2020-08-09T20:02:24.920Z",
-      "closedDate": "2020-08-30T03:07:14.086Z",
+      "closedDate": null,
       "caseName": "Maggio - Huel vs Quitzon, Koss and Witting",
       "assigned Lawyer": "Merle Heathcote"
     },
     {
       "createdDate": "2020-08-18T02:08:57.702Z",
-      "closedDate": "2020-09-04T08:48:22.012Z",
+      "closedDate": null,
       "caseName": "Schuppe and Sons vs Sawayn - Prosacco",
       "assigned Lawyer": "Kennedy Ward"
     },
     {
       "createdDate": "2020-08-27T19:37:53.690Z",
-      "closedDate": "2020-09-14T22:18:21.861Z",
+      "closedDate": null,
       "caseName": "Huel, Flatley and Mitchell vs Hills Group",
       "assigned Lawyer": "Simone Tremblay"
     },
     {
       "createdDate": "2020-08-26T17:16:34.140Z",
-      "closedDate": "2020-09-15T00:19:22.805Z",
+      "closedDate": null,
       "caseName": "Stiedemann - Kessler vs Satterfield - Schowalter",
       "assigned Lawyer": "Antonio Sporer"
     },
     {
       "createdDate": "2020-08-22T10:24:41.027Z",
-      "closedDate": "2020-09-17T16:07:26.001Z",
+      "closedDate": null,
       "caseName": "Stanton Inc vs Boehm - King",
       "assigned Lawyer": "Madisyn Mayer"
     },
     {
       "createdDate": "2020-08-04T13:46:43.525Z",
-      "closedDate": "2020-09-24T13:42:11.769Z",
+      "closedDate": null,
       "caseName": "Bogan, Koch and Carroll vs O'Keefe, Lynch and Johnston",
       "assigned Lawyer": "Ramiro Walsh"
     },
     {
       "createdDate": "2020-08-11T22:51:41.327Z",
-      "closedDate": "2020-09-03T22:07:28.439Z",
+      "closedDate": null,
       "caseName": "Wisozk Inc vs Hayes, Hayes and Moen",
       "assigned Lawyer": "Granville Marquardt"
     },
     {
       "createdDate": "2020-08-04T13:12:58.111Z",
-      "closedDate": "2020-09-07T18:43:41.117Z",
+      "closedDate": null,
       "caseName": "Shields, Streich and Stamm vs Muller and Sons",
       "assigned Lawyer": "Maximus Koelpin"
     },
     {
       "createdDate": "2020-08-12T23:33:05.201Z",
-      "closedDate": "2020-09-27T00:46:41.869Z",
+      "closedDate": null,
       "caseName": "Kuhic and Sons vs Beahan, White and Sporer",
       "assigned Lawyer": "Laverna Rempel"
     },
     {
       "createdDate": "2020-08-03T17:18:30.432Z",
-      "closedDate": "2020-09-17T16:06:43.079Z",
+      "closedDate": null,
       "caseName": "Schinner - Conroy vs Kohler, Cronin and Cummerata",
       "assigned Lawyer": "Lilliana Klocko"
     },
     {
       "createdDate": "2020-08-04T14:23:39.929Z",
-      "closedDate": "2020-09-12T15:57:05.368Z",
+      "closedDate": null,
       "caseName": "Braun Inc vs Dooley Inc",
       "assigned Lawyer": "Delpha Daugherty"
     },
     {
       "createdDate": "2020-08-22T04:39:17.095Z",
-      "closedDate": "2020-09-11T21:27:16.818Z",
+      "closedDate": null,
       "caseName": "Bins, Jacobs and Mante vs Stokes, Kozey and Kemmer",
       "assigned Lawyer": "Earl Langosh"
     },
     {
       "createdDate": "2020-08-13T01:59:37.828Z",
-      "closedDate": "2020-09-28T13:18:58.225Z",
+      "closedDate": null,
       "caseName": "Oberbrunner - Cole vs Homenick Inc",
       "assigned Lawyer": "Myah Pacocha"
     },
     {
       "createdDate": "2020-08-06T01:22:01.934Z",
-      "closedDate": "2020-09-02T09:23:17.487Z",
+      "closedDate": null,
       "caseName": "Hammes, Miller and Leannon vs Jacobson - Romaguera",
       "assigned Lawyer": "Annabell Leannon"
     },
     {
       "createdDate": "2020-08-17T15:50:59.125Z",
-      "closedDate": "2020-09-27T02:20:51.269Z",
+      "closedDate": null,
       "caseName": "Windler Group vs Roob, Emard and O'Kon",
       "assigned Lawyer": "Fannie Dach"
     },
     {
       "createdDate": "2020-08-09T09:52:47.283Z",
-      "closedDate": "2020-09-07T05:37:36.071Z",
+      "closedDate": null,
       "caseName": "Ebert and Sons vs Hickle - Gerlach",
       "assigned Lawyer": "Webster Kassulke"
     },
     {
       "createdDate": "2020-08-18T13:00:33.176Z",
-      "closedDate": "2020-09-21T19:57:25.297Z",
+      "closedDate": null,
       "caseName": "Gerhold - Kiehn vs Keeling, Schneider and Haley",
       "assigned Lawyer": "Bella Lehner"
     },
@@ -908,121 +879,121 @@
   "july": [
     {
       "createdDate": "2020-07-14T14:23:56.278Z",
-      "closedDate": "2020-08-07T04:32:26.420Z",
+      "closedDate": null,
       "caseName": "Ankunding, Lesch and Padberg vs Harvey Group",
       "assigned Lawyer": "Lysanne Fritsch"
     },
     {
       "createdDate": "2020-07-16T18:19:52.762Z",
-      "closedDate": "2020-08-07T12:29:42.141Z",
+      "closedDate": null,
       "caseName": "Von LLC vs Abbott Group",
       "assigned Lawyer": "Jordon Keebler"
     },
     {
       "createdDate": "2020-07-12T19:26:10.907Z",
-      "closedDate": "2020-08-03T05:42:16.643Z",
+      "closedDate": null,
       "caseName": "Kessler - Botsford vs Johnson, Streich and Langosh",
       "assigned Lawyer": "Dalton Kirlin"
     },
     {
       "createdDate": "2020-07-20T11:45:47.989Z",
-      "closedDate": "2020-08-12T08:35:05.068Z",
+      "closedDate": null,
       "caseName": "Hegmann - Schneider vs Senger Group",
       "assigned Lawyer": "Leone Bosco"
     },
     {
-      "createdDate": "2020-07-21T16:23:02.494Z",
+      "closedDate": null,
       "closedDate": "2020-08-18T00:13:53.116Z",
       "caseName": "Bergstrom Inc vs Bayer, Cassin and Friesen",
       "assigned Lawyer": "Jennyfer Boyle"
     },
     {
       "createdDate": "2020-07-08T09:12:26.108Z",
-      "closedDate": "2020-08-18T13:44:07.877Z",
+      "closedDate": null,
       "caseName": "Moen and Sons vs Schowalter Inc",
       "assigned Lawyer": "Norris Medhurst"
     },
     {
       "createdDate": "2020-07-02T11:56:15.906Z",
-      "closedDate": "2020-08-03T09:08:10.847Z",
+      "closedDate": null,
       "caseName": "Nolan, Mertz and Stracke vs Lockman Group",
       "assigned Lawyer": "Dion Mayert"
     },
     {
       "createdDate": "2020-07-12T17:11:37.052Z",
-      "closedDate": "2020-08-01T08:43:17.747Z",
+      "closedDate": null,
       "caseName": "Stracke Inc vs Jones - Batz",
       "assigned Lawyer": "Nyasia Ullrich"
     },
     {
       "createdDate": "2020-07-10T03:16:43.008Z",
-      "closedDate": "2020-08-18T09:07:35.051Z",
+      "closedDate": null,
       "caseName": "Lesch and Sons vs Harris - Hintz",
       "assigned Lawyer": "Elenor Trantow"
     },
     {
       "createdDate": "2020-07-24T18:13:40.980Z",
-      "closedDate": "2020-08-20T02:39:53.706Z",
+      "closedDate": null,
       "caseName": "Koepp, Grady and Reichert vs Kris - Rippin",
       "assigned Lawyer": "Susie Marvin"
     },
     {
       "createdDate": "2020-07-15T07:13:56.950Z",
-      "closedDate": "2020-08-03T10:28:44.296Z",
+      "closedDate": null,
       "caseName": "Bailey, Schmitt and Shanahan vs Nitzsche and Sons",
       "assigned Lawyer": "Brionna Skiles"
     },
     {
       "createdDate": "2020-07-08T04:43:29.364Z",
-      "closedDate": "2020-08-25T17:45:00.463Z",
+      "closedDate": null,
       "caseName": "Borer LLC vs Wehner, Durgan and Cassin",
       "assigned Lawyer": "Reyna Ryan"
     },
     {
       "createdDate": "2020-07-14T20:41:34.323Z",
-      "closedDate": "2020-08-25T04:29:51.731Z",
+      "closedDate": null,
       "caseName": "Will, Parisian and Schroeder vs Block, Armstrong and Osinski",
       "assigned Lawyer": "Arno Nitzsche"
     },
     {
       "createdDate": "2020-07-04T05:20:05.060Z",
-      "closedDate": "2020-08-20T17:03:47.039Z",
+      "closedDate": null,
       "caseName": "Crist Inc vs Beier, Feeney and Schuppe",
       "assigned Lawyer": "Althea Feest"
     },
     {
       "createdDate": "2020-07-15T12:17:16.356Z",
-      "closedDate": "2020-08-03T23:46:45.312Z",
+      "closedDate": null,
       "caseName": "Shanahan - Kuphal vs Tremblay Inc",
       "assigned Lawyer": "Billy Wisozk"
     },
     {
       "createdDate": "2020-07-29T04:28:36.714Z",
-      "closedDate": "2020-08-13T16:43:03.556Z",
+      "closedDate": null,
       "caseName": "Boyer Inc vs Mayert - Von",
       "assigned Lawyer": "Kailee Wolff"
     },
     {
       "createdDate": "2020-07-17T14:52:35.726Z",
-      "closedDate": "2020-08-28T16:36:07.032Z",
+      "closedDate": null,
       "caseName": "Shields, Denesik and Feest vs Parker, Heathcote and Cartwright",
       "assigned Lawyer": "Elaina Ritchie"
     },
     {
       "createdDate": "2020-07-14T21:30:04.944Z",
-      "closedDate": "2020-08-17T20:36:32.701Z",
+      "closedDate": null,
       "caseName": "Greenfelder, Yost and Klocko vs Schulist LLC",
       "assigned Lawyer": "Gladys Rippin"
     },
     {
       "createdDate": "2020-07-06T09:33:10.790Z",
-      "closedDate": "2020-08-09T20:08:59.702Z",
+      "closedDate": null,
       "caseName": "Lynch, Schaden and Braun vs Johnson LLC",
       "assigned Lawyer": "Sylvan Abernathy"
     },
     {
       "createdDate": "2020-07-16T12:23:29.688Z",
-      "closedDate": "2020-08-08T19:13:36.752Z",
+      "closedDate": null,
       "caseName": "Hessel - Nicolas vs Schowalter, Hackett and Leffler",
       "assigned Lawyer": "Rubye Hammes"
     },
@@ -1210,49 +1181,49 @@
   "june": [
     {
       "createdDate": "2020-06-26T16:22:18.915Z",
-      "closedDate": "2020-07-06T04:30:45.790Z",
+      "closedDate": null,
       "caseName": "Leffler, Grant and Gleason vs Hintz LLC",
       "assigned Lawyer": "Emmitt Boyle"
     },
     {
       "createdDate": "2020-06-25T12:36:15.935Z",
-      "closedDate": "2020-07-27T17:40:53.686Z",
+      "closedDate": null,
       "caseName": "Skiles Group vs Tremblay LLC",
       "assigned Lawyer": "Gregg O'Hara"
     },
     {
       "createdDate": "2020-06-08T10:22:11.791Z",
-      "closedDate": "2020-07-01T04:28:23.474Z",
+      "closedDate": null,
       "caseName": "Rolfson - Mertz vs Hettinger and Sons",
       "assigned Lawyer": "Fiona Collins"
     },
     {
       "createdDate": "2020-06-04T06:58:54.808Z",
-      "closedDate": "2020-07-23T03:47:52.595Z",
+      "closedDate": null,
       "caseName": "Ortiz Group vs Goodwin and Sons",
       "assigned Lawyer": "Jody Quitzon"
     },
     {
       "createdDate": "2020-06-19T19:34:05.170Z",
-      "closedDate": "2020-07-05T16:51:48.323Z",
+      "closedDate": null,
       "caseName": "Corkery Group vs O'Reilly and Sons",
       "assigned Lawyer": "Leopold Adams"
     },
     {
       "createdDate": "2020-06-07T13:10:29.862Z",
-      "closedDate": "2020-07-17T23:29:28.588Z",
+      "closedDate": null,
       "caseName": "Crona Group vs Wuckert - Robel",
       "assigned Lawyer": "Georgiana Leannon"
     },
     {
       "createdDate": "2020-06-07T01:19:53.383Z",
-      "closedDate": "2020-07-18T10:05:42.125Z",
+      "closedDate": null,
       "caseName": "Trantow - Swaniawski vs Bartell, Towne and Mitchell",
       "assigned Lawyer": "Helene Legros"
     },
     {
       "createdDate": "2020-06-24T17:42:35.247Z",
-      "closedDate": "2020-07-11T13:29:53.463Z",
+      "closedDate": null,
       "caseName": "Beatty - Hessel vs Turcotte LLC",
       "assigned Lawyer": "Nolan Kutch"
     },
@@ -1264,67 +1235,67 @@
     },
     {
       "createdDate": "2020-06-21T17:44:14.191Z",
-      "closedDate": "2020-07-29T17:31:53.442Z",
+      "closedDate": null,
       "caseName": "Lueilwitz, Hartmann and Johnson vs Stamm LLC",
       "assigned Lawyer": "Chaz Koss"
     },
     {
       "createdDate": "2020-06-20T13:15:10.493Z",
-      "closedDate": "2020-07-14T04:50:24.679Z",
+      "closedDate": null,
       "caseName": "Fisher Group vs Wilkinson Inc",
       "assigned Lawyer": "Jacinto Pouros"
     },
     {
       "createdDate": "2020-06-05T14:49:18.440Z",
-      "closedDate": "2020-07-17T20:51:36.833Z",
+      "closedDate": null,
       "caseName": "Ebert, Witting and Hane vs Stiedemann LLC",
       "assigned Lawyer": "Virgie Douglas"
     },
     {
       "createdDate": "2020-06-26T20:54:31.563Z",
-      "closedDate": "2020-07-26T05:05:15.482Z",
+      "closedDate": null,
       "caseName": "Rohan Group vs Kassulke Inc",
       "assigned Lawyer": "Cassidy Pfannerstill"
     },
     {
       "createdDate": "2020-06-28T07:06:52.495Z",
-      "closedDate": "2020-07-15T15:54:04.058Z",
+      "closedDate": null,
       "caseName": "Shanahan, Sporer and Hansen vs Fisher - Gusikowski",
       "assigned Lawyer": "Franco Marvin"
     },
     {
       "createdDate": "2020-06-04T03:02:54.748Z",
-      "closedDate": "2020-07-20T14:21:59.252Z",
+      "closedDate": null,
       "caseName": "McDermott - Considine vs Fay Inc",
       "assigned Lawyer": "Penelope Cassin"
     },
     {
       "createdDate": "2020-06-11T22:20:11.879Z",
-      "closedDate": "2020-07-27T05:40:08.717Z",
+      "closedDate": null,
       "caseName": "Gibson, Nienow and Stoltenberg vs Breitenberg - Walsh",
       "assigned Lawyer": "Pamela Vandervort"
     },
     {
       "createdDate": "2020-06-23T06:06:56.032Z",
-      "closedDate": "2020-07-13T12:33:26.771Z",
+      "closedDate": null,
       "caseName": "Runte - Simonis vs DuBuque, Conn and Auer",
       "assigned Lawyer": "Estrella Lowe"
     },
     {
       "createdDate": "2020-06-23T14:36:43.233Z",
-      "closedDate": "2020-07-06T21:47:58.252Z",
+      "closedDate": null,
       "caseName": "Hoeger LLC vs Fahey Inc",
       "assigned Lawyer": "Quinn Sipes"
     },
     {
       "createdDate": "2020-06-14T15:54:09.996Z",
-      "closedDate": "2020-07-12T18:20:56.029Z",
+      "closedDate": null,
       "caseName": "Waters Group vs Kling Inc",
       "assigned Lawyer": "Regan Larson"
     },
     {
       "createdDate": "2020-06-27T23:41:20.404Z",
-      "closedDate": "2020-07-05T19:45:48.795Z",
+      "closedDate": null,
       "caseName": "Dibbert - Buckridge vs Gutmann LLC",
       "assigned Lawyer": "Kristopher Franecki"
     },
@@ -1512,121 +1483,121 @@
   "may": [
     {
       "createdDate": "2020-05-01T11:13:41.760Z",
-      "closedDate": "2020-06-21T10:09:27.373Z",
+      "closedDate": null,
       "caseName": "O'Connell, Franecki and Romaguera vs Senger LLC",
       "assigned Lawyer": "Brown Hansen"
     },
     {
       "createdDate": "2020-05-21T01:46:18.295Z",
-      "closedDate": "2020-06-04T08:59:29.636Z",
+      "closedDate": null,
       "caseName": "Fisher, Kilback and Hauck vs Ruecker, Moore and Wiegand",
       "assigned Lawyer": "Jerrell Weissnat"
     },
     {
       "createdDate": "2020-05-03T21:26:58.391Z",
-      "closedDate": "2020-06-26T15:24:35.563Z",
+      "closedDate": null,
       "caseName": "Morissette, Maggio and Aufderhar vs Hirthe, Miller and Cartwright",
       "assigned Lawyer": "Kristin Bins"
     },
     {
       "createdDate": "2020-05-10T09:48:52.778Z",
-      "closedDate": "2020-06-04T19:24:45.524Z",
+      "closedDate": null,
       "caseName": "Johnson, Larson and Stroman vs Blanda, Hoeger and Simonis",
       "assigned Lawyer": "Kristofer Gibson"
     },
     {
       "createdDate": "2020-05-26T12:46:36.456Z",
-      "closedDate": "2020-06-20T15:04:55.980Z",
+      "closedDate": null,
       "caseName": "Dietrich - Hagenes vs Cruickshank, Nicolas and Barton",
       "assigned Lawyer": "Dave McGlynn"
     },
     {
       "createdDate": "2020-05-20T08:24:07.863Z",
-      "closedDate": "2020-06-10T22:16:40.207Z",
+      "closedDate": null,
       "caseName": "Rice, Roob and Wiza vs Strosin, Bartoletti and Gottlieb",
       "assigned Lawyer": "Nia Beahan"
     },
     {
       "createdDate": "2020-05-06T11:22:33.538Z",
-      "closedDate": "2020-05-31T19:44:48.622Z",
+      "closedDate": null,
       "caseName": "Batz Group vs Heidenreich and Sons",
       "assigned Lawyer": "Sabrina McLaughlin"
     },
     {
       "createdDate": "2020-05-18T00:55:57.116Z",
-      "closedDate": "2020-05-31T06:27:29.753Z",
+      "closedDate": null,
       "caseName": "Bauch Group vs Ruecker, Blick and Mohr",
       "assigned Lawyer": "Lora Bartell"
     },
     {
       "createdDate": "2020-05-21T01:49:43.967Z",
-      "closedDate": "2020-06-07T04:24:31.312Z",
+      "closedDate": null,
       "caseName": "Hackett Group vs Durgan and Sons",
       "assigned Lawyer": "Angie Schneider"
     },
     {
       "createdDate": "2020-05-06T11:37:51.954Z",
-      "closedDate": "2020-06-22T13:25:14.024Z",
+      "closedDate": null,
       "caseName": "Hilll, Hermiston and Brakus vs Grady, Prohaska and Daugherty",
       "assigned Lawyer": "Earline Goodwin"
     },
     {
       "createdDate": "2020-05-14T17:49:53.906Z",
-      "closedDate": "2020-06-26T14:11:45.317Z",
+      "closedDate": null,
       "caseName": "Welch and Sons vs Hansen, White and O'Kon",
       "assigned Lawyer": "Ayla Reilly"
     },
     {
       "createdDate": "2020-05-17T13:50:26.272Z",
-      "closedDate": "2020-06-27T03:59:19.745Z",
+      "closedDate": null,
       "caseName": "Kunde, Casper and Stoltenberg vs Kohler Inc",
       "assigned Lawyer": "Madyson Kohler"
     },
     {
       "createdDate": "2020-05-24T03:46:39.555Z",
-      "closedDate": "2020-06-01T02:07:15.952Z",
+      "closedDate": null,
       "caseName": "Zulauf Group vs Kuphal, Flatley and Bruen",
       "assigned Lawyer": "Clovis Schmidt"
     },
     {
       "createdDate": "2020-05-18T10:34:29.779Z",
-      "closedDate": "2020-06-08T09:18:54.153Z",
+      "closedDate": null,
       "caseName": "Schmitt - Lesch vs Hegmann - Murray",
       "assigned Lawyer": "Flavio Rogahn"
     },
     {
       "createdDate": "2020-05-09T01:10:36.682Z",
-      "closedDate": "2020-06-10T14:30:33.498Z",
+      "closedDate": null,
       "caseName": "Spencer LLC vs Sauer - Robel",
       "assigned Lawyer": "Rebecca Boyle"
     },
     {
       "createdDate": "2020-05-09T18:00:13.867Z",
-      "closedDate": "2020-06-17T03:05:50.187Z",
+      "closedDate": null,
       "caseName": "Zulauf - Homenick vs Langosh - Littel",
       "assigned Lawyer": "Monroe Lubowitz"
     },
     {
       "createdDate": "2020-05-03T13:53:26.965Z",
-      "closedDate": "2020-06-21T14:27:23.194Z",
+      "closedDate": null,
       "caseName": "Murray - Treutel vs Christiansen - Kerluke",
       "assigned Lawyer": "Cassie Gusikowski"
     },
     {
       "createdDate": "2020-05-18T02:14:37.944Z",
-      "closedDate": "2020-06-05T04:00:34.898Z",
+      "closedDate": null,
       "caseName": "Mohr, Upton and Feeney vs Wuckert - O'Reilly",
       "assigned Lawyer": "Enos Reynolds"
     },
     {
       "createdDate": "2020-05-27T09:12:20.512Z",
-      "closedDate": "2020-06-16T01:27:34.080Z",
+      "closedDate": null,
       "caseName": "Gusikowski and Sons vs Zulauf, Kertzmann and Lang",
       "assigned Lawyer": "Noel Kunze"
     },
     {
       "createdDate": "2020-05-06T14:40:29.287Z",
-      "closedDate": "2020-06-09T06:04:29.176Z",
+      "closedDate": null,
       "caseName": "Kuhic LLC vs Anderson and Sons",
       "assigned Lawyer": "Sasha Schneider"
     },
@@ -1814,121 +1785,121 @@
   "april": [
     {
       "createdDate": "2020-04-07T02:36:34.571Z",
-      "closedDate": "2020-05-17T00:27:15.355Z",
+      "closedDate": null,
       "caseName": "Stanton, Hackett and Lockman vs Franecki - Rowe",
       "assigned Lawyer": "Darron Von"
     },
     {
       "createdDate": "2020-04-22T13:20:21.269Z",
-      "closedDate": "2020-05-18T13:07:12.897Z",
+      "closedDate": null,
       "caseName": "Mills LLC vs Barton Group",
       "assigned Lawyer": "Marianna Wintheiser"
     },
     {
       "createdDate": "2020-04-17T17:54:40.883Z",
-      "closedDate": "2020-05-18T07:53:10.780Z",
+      "closedDate": null,
       "caseName": "Lubowitz - Kuphal vs Blick, McClure and Legros",
       "assigned Lawyer": "Tabitha Bosco"
     },
     {
       "createdDate": "2020-04-19T19:02:44.685Z",
-      "closedDate": "2020-05-19T05:23:41.265Z",
+      "closedDate": null,
       "caseName": "Abbott LLC vs Klocko - Mante",
       "assigned Lawyer": "Dolly Lang"
     },
     {
       "createdDate": "2020-04-25T05:21:25.973Z",
-      "closedDate": "2020-05-19T09:19:44.848Z",
+      "closedDate": null,
       "caseName": "Sawayn Inc vs Altenwerth - Bartell",
       "assigned Lawyer": "Malinda Cassin"
     },
     {
       "createdDate": "2020-04-19T01:09:47.107Z",
-      "closedDate": "2020-05-09T20:06:56.913Z",
+      "closedDate": null,
       "caseName": "Dare LLC vs Boehm Inc",
       "assigned Lawyer": "Shawn Trantow"
     },
     {
       "createdDate": "2020-04-01T11:51:02.464Z",
-      "closedDate": "2020-05-29T07:25:44.086Z",
+      "closedDate": null,
       "caseName": "Okuneva - Beahan vs Torp - Moen",
       "assigned Lawyer": "Brennon Marks"
     },
     {
       "createdDate": "2020-04-28T06:32:36.291Z",
-      "closedDate": "2020-05-10T07:21:16.367Z",
+      "closedDate": null,
       "caseName": "Christiansen - Luettgen vs O'Kon - Cummings",
       "assigned Lawyer": "Sheila Labadie"
     },
     {
       "createdDate": "2020-04-11T09:13:52.310Z",
-      "closedDate": "2020-05-22T17:29:59.755Z",
+      "closedDate": null,
       "caseName": "Stoltenberg - Hickle vs Heathcote - Steuber",
       "assigned Lawyer": "Blanche Padberg"
     },
     {
       "createdDate": "2020-04-04T17:44:04.685Z",
-      "closedDate": "2020-05-24T09:25:02.680Z",
+      "closedDate": null,
       "caseName": "Rau, Kassulke and Dooley vs Wisoky - Berge",
       "assigned Lawyer": "Rene Stroman"
     },
     {
       "createdDate": "2020-04-10T10:34:29.457Z",
-      "closedDate": "2020-04-30T20:14:33.436Z",
+      "closedDate": null,
       "caseName": "Nikolaus - Halvorson vs Klein - DuBuque",
       "assigned Lawyer": "Caesar Christiansen"
     },
     {
       "createdDate": "2020-04-19T21:43:12.676Z",
-      "closedDate": "2020-05-05T21:22:30.035Z",
+      "closedDate": null,
       "caseName": "Hoppe, Konopelski and Turner vs Reilly - Champlin",
       "assigned Lawyer": "Marquis Price"
     },
     {
       "createdDate": "2020-04-09T21:03:53.474Z",
-      "closedDate": "2020-05-29T14:41:10.087Z",
+      "closedDate": null,
       "caseName": "Fay Inc vs O'Keefe LLC",
       "assigned Lawyer": "Ryann Doyle"
     },
     {
       "createdDate": "2020-04-25T18:52:52.845Z",
-      "closedDate": "2020-05-20T15:16:24.495Z",
+      "closedDate": null,
       "caseName": "Jerde - Stark vs Lesch, Mraz and Cormier",
       "assigned Lawyer": "Magdalena Roberts"
     },
     {
       "createdDate": "2020-04-09T02:31:15.848Z",
-      "closedDate": "2020-05-04T04:08:05.400Z",
+      "closedDate": null,
       "caseName": "Brown Group vs Hand, Streich and Kunze",
       "assigned Lawyer": "Haskell Gutkowski"
     },
     {
       "createdDate": "2020-04-27T07:18:05.750Z",
-      "closedDate": "2020-05-08T01:47:30.480Z",
+      "closedDate": null,
       "caseName": "Spinka and Sons vs Heller, Langosh and Schneider",
       "assigned Lawyer": "Lorenza Ebert"
     },
     {
       "createdDate": "2020-04-26T20:55:49.087Z",
-      "closedDate": "2020-05-17T05:46:12.727Z",
+      "closedDate": null,
       "caseName": "Ledner and Sons vs Stracke, Wolf and Mitchell",
       "assigned Lawyer": "Breanne Pagac"
     },
     {
       "createdDate": "2020-04-15T18:20:50.379Z",
-      "closedDate": "2020-05-09T17:58:28.634Z",
+      "closedDate": null,
       "caseName": "Ruecker and Sons vs Bednar - Friesen",
       "assigned Lawyer": "Deangelo Marvin"
     },
     {
       "createdDate": "2020-04-09T19:05:36.829Z",
-      "closedDate": "2020-05-27T03:50:52.524Z",
+      "closedDate": null,
       "caseName": "Larkin, Conroy and Rau vs Franecki - Huels",
       "assigned Lawyer": "Letitia Cruickshank"
     },
     {
       "createdDate": "2020-04-12T14:37:32.262Z",
-      "closedDate": "2020-05-02T20:01:58.625Z",
+      "closedDate": null,
       "caseName": "Strosin - Mann vs O'Conner, Grimes and Emard",
       "assigned Lawyer": "Ulises Buckridge"
     },
