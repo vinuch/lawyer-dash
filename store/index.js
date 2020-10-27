@@ -27,9 +27,6 @@ export const mutations = {
 
 export const actions = {
   async getCases({ commit }, month){
-    if(month){
-      
-    }
     let activeCase = new Array(moment(`${moment().year()} ${month}`).daysInMonth()).fill(0)
     let closedCase = new Array(moment(`${moment().year()} ${month}`).daysInMonth()).fill(0)
     let newCase = new Array(moment(`${moment().year()} ${month}`).daysInMonth()).fill(0)
@@ -64,7 +61,7 @@ export const actions = {
         console.error(err)
         return false
       })
-      
+
       if(!request && month) {
         let data = require('../db.json')
         let response = data[month.toLowerCase()]
