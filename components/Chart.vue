@@ -104,7 +104,7 @@ import { mapActions, mapGetters } from 'vuex'
     mounted() {
       this.getDays(2020, this.selected)
       this.getCases(this.selected)
-        this.selected = this.options[0]
+        // this.selected = this.options[0]
 
     },
     computed: {

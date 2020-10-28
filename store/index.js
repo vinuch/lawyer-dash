@@ -86,7 +86,6 @@ export const actions = {
         commit('SET_ACTIVE_CASES', activeCase)
         commit('SET_CLOSED_CASES', closedCase)
         commit('SET_NEW_CASES', newCase)
-        console.log(activeCase, closedCase, newCase)
       }
       
 
